@@ -1,0 +1,4 @@
+[submodule "submodule-include"]
+	path = submodule-include
+	url = git@github.com:gmckeever/submodule-include.git
+	branch = develop
